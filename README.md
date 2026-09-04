@@ -72,8 +72,7 @@
     </a>
   </p>
   <p>
-    ☕ <b>Support:</b> <a href="https://ko-fi.com/cosmictaser">Ko-fi</a> &nbsp;•&nbsp;
-    💸 <b>UPI:</b> <code>cosmictaser@okicici</code> &nbsp;•&nbsp;
+
     🌐 <b>Website:</b> <a href="https://cosmictaser.de5.net">cosmictaser.de5.net</a>
   </p>
 </div>
