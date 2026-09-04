@@ -73,7 +73,8 @@
   </p>
   <p>
 
-# 🌐Website:https://cosmictaser.de5.net
+# Website:
+https://cosmictaser.de5.net
   </p>
 </div>
 
